@@ -1,2 +1,2 @@
-i am index
+index.txt
 
